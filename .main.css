@@ -1,0 +1,64 @@
+
+.title-page{
+    width: 100%;
+    height: 320px;
+    padding: 140px 0px 80px;
+    text-align: center;
+    overflow:auto;
+    color: white;
+}
+h5{
+  color: #435B55;
+  text-align: center;
+  font-size:30px;
+  margin: 20px 0px;
+}
+.isi1{
+    width: 100%;
+    height: 550px;
+    margin: 10px 0px 30px;
+    color: #435B55;
+}
+.detail{
+    width: 50%;
+    height: 300px;
+    margin: 30px 40px 35px;
+    text-align: left;
+    float: left;
+}
+.profile{
+    width: 30%;
+    height: fit-content;
+    margin: 45px;
+    float: left;
+}
+.info{
+    width: 100%;
+    height: 400px;
+    margin: 30px 0px 50px;
+}
+.click{
+    background-color: #839480;
+    text-align: center;
+    width: 20%;
+    float: left;
+    padding: 20px;
+    margin: 20px 63px;
+    overflow:auto;
+}
+.click:hover{
+    background-color: #435B55;
+  }
+.end-note{
+    width: 100%;
+    height: 250px;
+    background-color: #435B55;
+    overflow:auto;
+}
+.end-note a{
+    float: left;
+    color: white;
+    text-decoration: none;
+    width: 8%;
+    margin:20px 105px;
+}
